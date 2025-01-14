@@ -60,3 +60,10 @@ I'm an aspiring Full-Stack Engineer, actively seeking internship opportunities t
 - 🏋️ **[FitNology](https://fitnologyy.vercel.app)**: A fitness app with a BMI calculator and an AI fitness coach designed to help users stay healthy.
 
 ---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnain-khaliq-5414b9277)
+[![Personal Website](https://img.shields.io/badge/-Website-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://husnain-khaliq-portfolio.vercel.app)
+
+Feel free to reach out 🚀 
