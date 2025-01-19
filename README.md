@@ -49,7 +49,7 @@ I'm an aspiring Full-Stack Engineer, actively seeking internship opportunities t
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boiledpotatoe&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huscse&layout=compact&theme=radical" />
 </div>
 
 ---
