@@ -4,7 +4,7 @@
 
 ## About me 
 
-I'm an aspiring Full-Stack Engineer, actively seeking internship opportunities that allow me to apply my skills in web development and database management. With a strong interest and focus on building AI-driven applications, I'm eager to work on projects that combine cutting-edge technology with practical solutions.
+I'm an aspiring Full-Stack Software Engineer, actively seeking internship opportunities that allow me to apply my skills in web development and database management. With a strong interest and focus on building AI-driven applications, I'm eager to work on projects that combine cutting-edge technology with practical solutions.
 
 - 🌱 **Currently Learning**: Advanced techniques in full-stack development, REST APIs, and UI/UX design.
 - 🛠️ **Skills**: 
