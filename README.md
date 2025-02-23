@@ -8,8 +8,8 @@ I'm an aspiring Full-Stack Software Engineer, actively seeking internship opport
 
 - 🌱 **Currently Learning**: Advanced techniques in full-stack development, REST APIs, and UI/UX design.
 - 🛠️ **Skills**: 
-  - **Front-end**: HTML, CSS, JavaScript, React, Next.js, MaterialUI
-  - **Back-end**: Node.js, Express, Angular, SQL, Firebase
+  - **Front-end**: HTML, CSS, JavaScript, TypeScript, React, Next.js, MaterialUI, Shadcn
+  - **Back-end**: Node.js, Express, Angular, SQL, Firebase, MongoDB, Supabase
   - **Other Tools**: Git, Figma, Stripe, Clerk, APIs 
 - 👨‍💻 **Experience**: 
   - Developed projects that focus on data-driven, interactive web, AI-powered applications.
