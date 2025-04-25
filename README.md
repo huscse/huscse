@@ -57,7 +57,7 @@ I'm an aspiring Full-Stack Software Engineer, actively seeking internship opport
 ## 🌟 Featured Projects
 
 - 🚀 **[PromptWise](https://promptwise-first.vercel.app)**: An AI flashcards generator that uses OpenAI to help users study with ease.
-- 🏋️ **[FitNology](https://fitnologyy.vercel.app)**: A fitness app with a BMI calculator and an AI fitness coach designed to help users stay healthy.
+- 🏋️ **[FitNology](https://fitnologyy.vercel.app)**: A fitness platform with a BMI calculator and an AI fitness coach designed to help users stay healthy.
 
 ---
 
