@@ -1,10 +1,10 @@
-# Hi there, I'm Husnain! 👋 - Aspiring **Full Stack Software Engineer.**
+# Hi there, I'm Husnain 👋 
 
 ---
 
 ## About me 
 
-I'm an aspiring Full-Stack Software Engineer, actively seeking internship opportunities that allow me to apply my skills in software engineering. With a strong interest and focus on building AI-driven applications, I'm eager to work on projects that combine cutting-edge technology with practical solutions.
+Aspiring Full Stack SWE :)
 
 - 🌱 **Currently Learning**: Advanced techniques in full-stack development, REST APIs, and UI/UX design.
 - 🛠️ **Skills**: 
