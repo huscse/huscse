@@ -1,8 +1,5 @@
 # Hi there, I'm Husnain 👋
 
----
-
-## About me
 
 Aspiring Full Stack SWE & AI Enthusiast :)
 
