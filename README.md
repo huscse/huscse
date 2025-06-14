@@ -64,15 +64,6 @@ Aspiring Full Stack SWE & AI Enthusiast :)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huscse&layout=compact&theme=radical" />
 </div>
 
----
-
-## 🌟 Featured Projects
-
-* 🚀 **[PromptWise](https://promptwise-first.vercel.app)**
-  An AI-powered flashcard generator using OpenAI, helping learners study smarter and faster.
-
-* 🏋️ **[FitNology](https://fitnologyy.vercel.app)**
-  A fitness web app offering BMI calculations and personalized AI coaching to support users' health goals.
 
 ---
 
