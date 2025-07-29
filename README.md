@@ -4,8 +4,8 @@
 
 ## 👨‍💻 About Me
 
-🎓 Senior at Brooklyn College, majoring in Computer Science
-🔭 Aspiring Software/Machine Learning Enginner
+🎓 Senior at Brooklyn College, majoring in **Computer Science**  
+🔭 Aspiring **Software / Machine Learning Engineer**
 
 I’m a **Computer Science student** and **emerging SWE/ML Engineer** passionate about **Artificial Intelligence, Machine Learning, and Software Development**. I love creating impactful applications that solve real-world problems and provide meaningful user experiences.
 
