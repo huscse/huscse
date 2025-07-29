@@ -11,9 +11,7 @@ I’m a **Computer Science student** and **emerging software engineer** passiona
 * 📚 Continuously improving my **DSA, full-stack development, and ML skills**
 * ✨ Dedicated to writing **clean, scalable, and well-documented code**
 
-📫 **Reach Me At:**
-
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />](https://www.linkedin.com/in/husnain-khaliq-5414b9277)
+📫 **Reach Me At:** [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />](https://www.linkedin.com/in/husnain-khaliq-5414b9277)
 
 ---
 
