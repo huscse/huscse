@@ -12,7 +12,7 @@ I’m a **Computer Science student** and **emerging software engineer** passiona
 * ✨ Dedicated to writing **clean, scalable, and well-documented code**
 
 📫 **Reach Me At:**
-**LinkedIn:** [linkedin.com/in/husnainkhaliq](www.linkedin.com/in/husnain-khaliq-5414b9277)
+**LinkedIn:** (www.linkedin.com/in/husnain-khaliq-5414b9277)
 
 ---
 
