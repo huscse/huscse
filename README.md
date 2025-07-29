@@ -13,7 +13,7 @@ I’m a **Computer Science student** and **emerging software engineer** passiona
 
 📫 **Reach Me At:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/husnain-khaliq-5414b9277)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />](https://www.linkedin.com/in/husnain-khaliq-5414b9277)
 
 ---
 
