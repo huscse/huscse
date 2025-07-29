@@ -4,12 +4,15 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Computer Science student** and **emerging software engineer** passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**. I love creating impactful applications that solve real-world problems and provide meaningful user experiences.
+🎓 Senior at Brooklyn College, majoring in Computer Science
+🔭 Aspiring Software/Machine Learning Enginner
 
-* 🌱 Currently building **AI-powered tools and web applications**
-* 💼 Open to **internships in Software Engineering, AI/ML**
-* 📚 Continuously improving my **DSA, full-stack development, and ML skills**
-* ✨ Dedicated to writing **clean, scalable, and well-documented code**
+I’m a **Computer Science student** and **emerging SWE/ML Engineer** passionate about **Artificial Intelligence, Machine Learning, and Software Development**. I love creating impactful applications that solve real-world problems and provide meaningful user experiences.
+
+- 🌱 Currently building **AI-powered tools, web applications, and ML models** to tackle **real-world problems**  
+- 💼 Open to **internships in Software Engineering, AI/ML**  
+- 📚 Continuously improving my **DSA, full-stack development, and ML skills**  
+- ✨ Dedicated to writing **clean, scalable, and well-documented code**
 
 📫 **Reach Me At:** 
 
