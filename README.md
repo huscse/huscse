@@ -1,30 +1,61 @@
-# Hi there, I'm Husnain 👋
+# Hi there, I’m **Husnain** 👋
 
+![Profile Banner](https://via.placeholder.com/1200x250.png?text=Welcome+to+My+GitHub+Profile)
 
-Aspiring Full Stack SWE & AI Enthusiast :)
+## 👨‍💻 About Me
 
-* 🌱 **Currently Learning**:
+I’m a **Computer Science student** and **emerging software engineer** passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**. I love creating impactful applications that solve real-world problems and provide meaningful user experiences.
 
-  * Machine Learning foundations through Cornell University's Break Through Tech AI Program
-  * Building, evaluating, and deploying ML models using Python and real-world datasets
-  * Advanced techniques in full-stack development, REST APIs, and UI/UX design
+* 🌱 Currently building **AI-powered tools and web applications**
+* 💼 Open to **internships in Software Engineering, AI/ML**
+* 📚 Continuously improving my **DSA, full-stack development, and ML skills**
+* ✨ Dedicated to writing **clean, scalable, and well-documented code**
 
-* 🛠️ **Skills**:
-
-  * **Front-end**: HTML, CSS, JavaScript, TypeScript, React, Next.js, Material UI, Shadcn
-  * **Back-end**: Node.js, Express, SQL, Firebase, MongoDB, Supabase
-  * **Machine Learning**: Python, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn
-  * **Other Tools**: Git, Figma, Stripe, Clerk, OpenAI API, REST APIs
-
-* 👨‍💻 **Experience**:
-
-  * Developed full-stack and AI-powered apps with clean, responsive UIs
-  * Built intelligent applications using the **OpenAI API**
-  * Integrated **Stripe** for payments and **Clerk** for authentication
-  * Collaborated in project-based learning environments to solve real-world problems
-  * Passionate about creating tools that make life easier, smarter, and more engaging
+📫 **Reach Me At:**
+**LinkedIn:** [linkedin.com/in/husnainkhaliq](www.linkedin.com/in/husnain-khaliq-5414b9277)
 
 ---
+
+## 🚀 Featured Projects
+
+### 1. [PromptWise - AI Powered Flashcards Generator](https://github.com/huscse/FlashCards-Saas)
+
+* **Overview:** A tool that generates **custom AI-powered flashcards** to help students learn faster and smarter.
+* **Tech Stack:** Next.js, Tailwind CSS, Firebase, OpenAI API
+* **Highlights:**
+
+  * Generate **personalized flashcards** from any topic or document
+  * Supports a **premium version (PromptWise Plus)** for advanced features
+  * Clean, **responsive UI** with modern animations
+  * Firebase-based **authentication and data storage**
+
+---
+
+### 2. [Ayah For You](https://github.com/huscse/yourayah)
+
+* **Overview:** Your **personal companion** for discovering Quranic guidance tailored to your heart’s needs.
+* **How It Works:**
+
+  * Select how you’re feeling—joyful, anxious, grateful, or seeking guidance
+  * Receive carefully selected verses that **speak directly to your current state**
+  * Experience **peace and tranquility** through divine guidance
+* **Tech Stack:** Next.js, Tailwind CSS, MUI, Firebase
+* **Highlights:**
+
+  * **Emotion-based Quranic recommendations**
+  * Interactive **user-friendly interface**
+  * Mobile-ready design for **spiritual guidance on the go**
+
+---
+
+
+## 📊 GitHub Activity
+
+![Husnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huscse\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huscse\&layout=compact\&theme=tokyonight)
+
+---
+
 
 ## 🛠 Languages and Tools
 
@@ -64,12 +95,6 @@ Aspiring Full Stack SWE & AI Enthusiast :)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huscse&layout=compact&theme=radical" />
 </div>
 
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/husnain-khaliq-5414b9277)
 
 Feel free to reach out — I’m always open to collaborating, learning, and building cool stuff! 🚀
 
