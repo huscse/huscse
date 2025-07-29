@@ -1,6 +1,6 @@
 # Hi there, I’m **Husnain** 👋
 
-![Profile Banner](https://via.placeholder.com/1200x250.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner]([https://via.placeholder.com/1200x250.png?text=Welcome+to+My+GitHub+Profile](https://media.licdn.com/dms/image/v2/D4E16AQH7sbymSSep7g/profile-displaybackgroundimage-shrink_350_1400/B4EZg5.UY5GUAY-/0/1753319295465?e=1756944000&v=beta&t=cU9RI5O2LOri5mXs_3AHRCxavV9JvG3v6tSjIWRNrDI))
 
 ## 👨‍💻 About Me
 
@@ -36,10 +36,10 @@ I’m a **Computer Science student** and **emerging software engineer** passiona
 * **Overview:** Your **personal companion** for discovering Quranic guidance tailored to your heart’s needs.
 * **How It Works:**
 
-  * Select how you’re feeling—joyful, anxious, grateful, or seeking guidance
+  * Select how you’re feeling, joyful, anxious, grateful, or seeking guidance
   * Receive carefully selected verses that **speak directly to your current state**
   * Experience **peace and tranquility** through divine guidance
-* **Tech Stack:** Next.js, Tailwind CSS, MUI, Firebase
+* **Tech Stack:** Next.js, Tailwind CSS, React
 * **Highlights:**
 
   * **Emotion-based Quranic recommendations**
@@ -51,7 +51,6 @@ I’m a **Computer Science student** and **emerging software engineer** passiona
 
 ## 📊 GitHub Activity
 
-![Husnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huscse\&show_icons=true\&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huscse\&layout=compact\&theme=tokyonight)
 
 ---
