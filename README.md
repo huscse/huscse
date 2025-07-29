@@ -49,9 +49,11 @@ I’m a **Computer Science student** and **emerging software engineer** passiona
 ---
 
 
-## 📊 GitHub Activity
+## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huscse\&layout=compact\&theme=tokyonight)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huscse&layout=compact&theme=radical" />
+</div>
 
 ---
 
@@ -88,11 +90,6 @@ I’m a **Computer Science student** and **emerging software engineer** passiona
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huscse&layout=compact&theme=radical" />
-</div>
 
 
 Feel free to reach out — I’m always open to collaborating, learning, and building cool stuff! 🚀
