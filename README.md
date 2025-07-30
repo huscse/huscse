@@ -25,7 +25,7 @@ I’m a **Computer Science student** and **emerging SWE/ML Engineer** passionate
 ### 1. [PromptWise - AI Powered Flashcards Generator](https://github.com/huscse/FlashCards-Saas)
 
 * **Overview:** A tool that generates **custom AI-powered flashcards** to help students learn faster and smarter.
-* **Tech Stack:** Next.js, Tailwind CSS, Firebase, OpenAI API
+* **Tech Stack:** Next.js, Tailwind CSS, Firebase, OpenAI API, Material UI, Clerk, Stripe
 * **Highlights:**
 
   * Generate **personalized flashcards** from any topic or document
