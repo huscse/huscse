@@ -22,20 +22,9 @@ I’m a **Computer Science student** and **emerging SWE/ML Engineer** passionate
 
 ## 🚀 Featured Projects
 
-### 1. [PromptWise - AI Powered Flashcards Generator](https://github.com/huscse/FlashCards-Saas)
+--- 
 
-* **Overview:** A tool that generates **custom AI-powered flashcards** to help students learn faster and smarter.
-* **Tech Stack:** Next.js, Tailwind CSS, Firebase, OpenAI API, Material UI, Clerk, Stripe
-* **Highlights:**
-
-  * Generate **personalized flashcards** from any topic or document
-  * Supports a **premium version (PromptWise Plus)** for advanced features
-  * Clean, **responsive UI** with modern animations
-  * Firebase-based **authentication and data storage**
-
----
-
-### 2. [🏡 Airbnb Price Prediction – NYC](https://github.com/huscse/ecornell-project)
+### 1. [🏡 Airbnb Price Prediction – NYC](https://github.com/huscse/ecornell-project)
 
 * **Overview:** Applied machine learning to predict **Airbnb listing prices in New York City**, following the full ML lifecycle.
 * **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
@@ -52,9 +41,22 @@ I’m a **Computer Science student** and **emerging SWE/ML Engineer** passionate
 
   * **Linear Regression** – RMSE: \~107 | R²: \~0.40
   * **Random Forest** – RMSE: \~89 | Captures non-linear patterns effectively
-    
 
 ---
+
+### 2. [PromptWise - AI Powered Flashcards Generator](https://github.com/huscse/FlashCards-Saas)
+
+* **Overview:** A tool that generates **custom AI-powered flashcards** to help students learn faster and smarter.
+* **Tech Stack:** Next.js, Tailwind CSS, Firebase, OpenAI API, Material UI, Clerk, Stripe
+* **Highlights:**
+
+  * Generate **personalized flashcards** from any topic or document
+  * Supports a **premium version (PromptWise Plus)** for advanced features
+  * Clean, **responsive UI** with modern animations
+  * Firebase-based **authentication and data storage**
+
+---
+
 
 ### 3. [Ayah For You](https://github.com/huscse/yourayah)
 
