@@ -13,8 +13,11 @@ I’m a **Computer Science student** and **emerging SWE/ML Engineer** passionate
 - 💼 Open to **internships in Software Engineering, AI/ML**  
 - 📚 Continuously improving my **DSA, full-stack development, and ML skills**  
 - ✨ Dedicated to writing **clean, scalable, and well-documented code**
+  
+<p><strong>📫 Reach Me At:</strong> <a href="https://www.linkedin.com/in/husnain-khaliq-5414b9277">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+</a></p>
 
-📫 **Reach Me At:**  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/husnain-khaliq-5414b9277)
 
 ---
 
