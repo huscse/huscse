@@ -35,7 +35,28 @@ I’m a **Computer Science student** and **emerging SWE/ML Engineer** passionate
 
 ---
 
-### 2. [Ayah For You](https://github.com/huscse/yourayah)
+### 2. [🏡 Airbnb Price Prediction – NYC](https://github.com/huscse/ecornell-project)
+
+* **Overview:** Applied machine learning to predict **Airbnb listing prices in New York City**, following the full ML lifecycle.
+* **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
+  
+* **Highlights:**
+
+  * Complete end-to-end **regression pipeline** for real-world price prediction
+  * Built and evaluated **Linear Regression** and **Tuned Random Forest** models
+  * Achieved **\~17% improvement** in RMSE using Random Forest over baseline
+  * Identified top features influencing price like `accommodates`, `bathrooms`, and `room_type`
+  * Visualized **residuals**, **actual vs predicted prices**, and **feature importances**
+    
+* **Results:**
+
+  * **Linear Regression** – RMSE: \~107 | R²: \~0.40
+  * **Random Forest** – RMSE: \~89 | Captures non-linear patterns effectively
+    
+
+---
+
+### 3. [Ayah For You](https://github.com/huscse/yourayah)
 
 * **Overview:** Your **personal companion** for discovering Quranic guidance tailored to your heart’s needs.
 * **How It Works:**
