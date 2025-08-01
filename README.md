@@ -41,6 +41,7 @@ I’m a **Computer Science student** and **emerging SWE/ML Engineer** passionate
 
   * **Linear Regression** – RMSE: \~107 | R²: \~0.40
   * **Random Forest** – RMSE: \~89 | Captures non-linear patterns effectively
+  
 
 ---
 
