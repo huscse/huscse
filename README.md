@@ -14,8 +14,7 @@ I’m a **Computer Science student** and **emerging SWE/ML Engineer** passionate
 - 📚 Continuously improving my **DSA, full-stack development, and ML skills**  
 - ✨ Dedicated to writing **clean, scalable, and well-documented code**
   
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/husnainkh)
-
+📫 **Reach Me At:**  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/husnainkh)
 ---
 
 ## 🚀 Featured Projects
