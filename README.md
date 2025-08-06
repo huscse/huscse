@@ -20,7 +20,7 @@ I’m a **Computer Science student** and **emerging SWE/ML Engineer** passionate
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 --- 
 
