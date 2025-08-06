@@ -37,11 +37,6 @@ I’m a **Computer Science student** and **emerging SWE/ML Engineer** passionate
   * Identified top features influencing price like `accommodates`, `bathrooms`, and `room_type`
   * Visualized **residuals**, **actual vs predicted prices**, and **feature importances**
     
-* **Results:**
-
-  * **Linear Regression** – RMSE: \~107 | R²: \~0.40
-  * **Random Forest** – RMSE: \~89 | Captures non-linear patterns effectively
-  
 
 ---
 
