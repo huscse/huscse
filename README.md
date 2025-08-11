@@ -14,15 +14,12 @@ I’m a **Computer Science student** and **emerging SWE/ML Engineer** passionate
 - 📚 Continuously improving my **DSA, full-stack development, and ML skills**  
 - ✨ Dedicated to writing **clean, scalable, and well-documented code**
   
-📫 **Reach Me At:**  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/husnain-khaliq-5414b9277)
+📫 **Reach Me At:** [LinkedIn](https://www.linkedin.com/in/husnain-kh)
 
 ---
 
 ## 🚀 Projects
 
---- 
 
 ### 1. [🏡 Airbnb Price Prediction – NYC](https://github.com/huscse/ecornell-project)
 
