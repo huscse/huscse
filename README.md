@@ -1,6 +1,6 @@
 # Hi there, I’m **Husnain** 👋
 
-![Profile Banner](https://media.licdn.com/dms/image/v2/D4E16AQH7sbymSSep7g/profile-displaybackgroundimage-shrink_350_1400/B4EZg5.UY5GUAY-/0/1753319295465?e=1756944000&v=beta&t=cU9RI5O2LOri5mXs_3AHRCxavV9JvG3v6tSjIWRNrDI)
+![Profile Banner](https://media.licdn.com/dms/image/v2/D4E16AQH7sbymSSep7g/profile-displaybackgroundimage-shrink_350_1400/B4EZg5.UY5GUAY-/0/1753319295465?e=1759968000&v=beta&t=L5sGgvzb3zi1elgBckTDGkmJxxfcemaJdIKruhpM3tQ)
 
 ## 👨‍💻 About Me
 
