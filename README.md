@@ -1,6 +1,5 @@
 # Hi there 👋
 
-## 👨‍💻 About Me
 
 🎓 Senior at Brooklyn College, majoring in **Computer Science**  
 🔭 Aspiring **Software / Machine Learning Engineer**
