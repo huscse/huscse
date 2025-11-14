@@ -1,8 +1,5 @@
 # Hi there 👋
 
-![Profile Banner](https://media.licdn.com/dms/image/v2/D4E16AQH7sbymSSep7g/profile-displaybackgroundimage-shrink_350_1400/B4EZg5.UY5GUAY-/0/1753319295465?e=1762992000&v=beta&t=Zhn0Jf6pGq2q5AGuqZKKOfgIKNWxABiWcDYaGgfkdiM)
-
-
 ## 👨‍💻 About Me
 
 🎓 Senior at Brooklyn College, majoring in **Computer Science**  
