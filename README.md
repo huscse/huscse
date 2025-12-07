@@ -18,8 +18,22 @@ I’m a **Computer Science student** and **emerging SWE/ML Engineer** passionate
 
 ## 🚀 Projects
 
+### 1. [🧭 Navis - Semantic Search for Autonomous Driving](https://github.com/huscse/vlm-dataset-navigator)
+* **Overview:** Led team of 7 to build a **VLM-powered semantic search platform** for querying autonomous driving datasets using natural language.
+* **Tech Stack:** Python, FastAPI, Next.js, React, CLIP, FAISS, YOLOv8, BLIP-large, Supabase, PostgreSQL
+  
+* **Highlights:**
+  * Built **full-stack platform** enabling natural language queries across KITTI, BDD100K, and Argoverse datasets
+  * Implemented **CLIP embeddings with FAISS vector indexing** for efficient semantic search
+  * Integrated **YOLOv8 object detection** and **BLIP-large AI captioning** for 3,000+ frames
+  * Developed user authentication, bookmarks system, and responsive dark-themed UI
+  * Optimized deployment for **resource-constrained platforms** with memory-efficient processing
+  * **Live Demo:** [vlm-dataset-navigator-frontend.vercel.app](https://vlm-dataset-navigator-frontend.vercel.app)
 
-### 1. [🏡 Airbnb Price Prediction – NYC](https://github.com/huscse/ecornell-project)
+---
+
+
+### 2. [🏡 Airbnb Price Prediction – NYC](https://github.com/huscse/ecornell-project)
 
 * **Overview:** Applied machine learning to predict **Airbnb listing prices in New York City**, following the full ML lifecycle.
 * **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
@@ -32,19 +46,6 @@ I’m a **Computer Science student** and **emerging SWE/ML Engineer** passionate
   * Identified top features influencing price like `accommodates`, `bathrooms`, and `room_type`
   * Visualized **residuals**, **actual vs predicted prices**, and **feature importances**
     
-
----
-
-### 2. [PromptWise - AI Powered Flashcards Generator](https://github.com/huscse/FlashCards-Saas)
-
-* **Overview:** A tool that generates **custom AI-powered flashcards** to help students learn faster and smarter.
-* **Tech Stack:** Next.js, Tailwind CSS, Firebase, OpenAI API, Material UI, Clerk, Stripe
-* **Highlights:**
-
-  * Generate **personalized flashcards** from any topic or document
-  * Supports a **premium version (PromptWise Plus)** for advanced features
-  * Clean, **responsive UI** with modern animations
-  * Firebase-based **authentication and data storage**
 
 ---
 
