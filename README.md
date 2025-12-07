@@ -68,11 +68,12 @@ I’m a **Computer Science student** and **emerging SWE/ML Engineer** passionate
 ---
 
 ## 📈 GitHub Stats
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huscse&theme=radical&hide_border=true&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huscse&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=huscse&theme=radical)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huscse&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
