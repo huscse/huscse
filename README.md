@@ -67,11 +67,12 @@ I’m a **Computer Science student** and **emerging SWE/ML Engineer** passionate
 
 ---
 
-
 ## 📈 GitHub Stats
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huscse&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huscse&theme=radical&hide_border=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huscse&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
