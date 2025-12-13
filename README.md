@@ -11,7 +11,6 @@ class Husnain:
     title = "Aspiring SWE - AI/ML"
     focus = ["AI/ML", "Computer Vision", "Full-Stack Development", "Applied AI"]
     latest_project = ["Navis @ Latitude AI"]
-    tools = ["Python", "Next.js", "FastAPI", "PostgreSQL"]
 ```
 
 ---
