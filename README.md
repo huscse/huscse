@@ -4,7 +4,17 @@
 🎓 Senior at Brooklyn College, majoring in **Computer Science**  
 🔭 Aspiring **Software / Machine Learning Engineer**
 
-I’m a **Computer Science student** and **aspiring SWE/ML Engineer** passionate about **Artificial Intelligence, Machine Learning, and Software Development**. I love creating impactful applications that solve real-world problems and provide meaningful user experiences.
+I’m a **Computer Science student** and **Aspiring SWE** passionate about **Artificial Intelligence, Machine Learning, and Software Development**. I love creating impactful applications that solve real-world problems and provide meaningful user experiences.
+
+```python
+class Husnain:
+    title = "Aspiring SWE - AI/ML"
+    focus = ["AI/ML", "Computer Vision", "Full-Stack Development", "Applied AI"]
+    latest_project = ["Navis @ Latitude AI"]
+    tools = ["Python", "Next.js", "FastAPI", "PostgreSQL"]
+```
+
+---
 
 - 🌱 Currently building **AI-powered tools, web applications, and ML models** to tackle **real-world problems**  
 - 💼 Open to **internships in Software Engineering, AI/ML**  
