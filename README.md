@@ -12,8 +12,6 @@ class Husnain:
     focus = ["AI/ML", "Computer Vision", "Full-Stack Development", "Applied AI"]
     latest_project = ["Navis @ Latitude AI"]
 ```
-
----
   
 📫 **Reach Me At:** **LinkedIn:** https://www.linkedin.com/in/husnain-kh
 
