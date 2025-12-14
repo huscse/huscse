@@ -2,7 +2,7 @@
 
 
 🎓 Senior at Brooklyn College, majoring in **Computer Science**  
-🔭 Aspiring **Software / Machine Learning Engineer**
+🔭 Aspiring **Software Engineer - Applied AI / ML**
 
 I’m a **Computer Science student** and **Aspiring SWE** passionate about **Artificial Intelligence, Machine Learning, and Software Development**. I love creating impactful applications that solve real-world problems and provide meaningful user experiences.
 
