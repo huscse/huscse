@@ -20,7 +20,7 @@ class Husnain:
 ## 🚀 Projects
 
 ### 1. [🚗 Navis - Semantic Search for Autonomous Driving](https://github.com/huscse/vlm-dataset-navigator)
-* **Overview:** Led team of 7 to build a **VLM-powered semantic search platform** for querying autonomous driving datasets using natural language.
+* **Overview:** Led team of 7 to build a **VLM-powered semantic search platform** for querying autonomous driving datasets using natural language. **Selected as one of top 3 projects** in the Fall 2025 Break Through Tech AI Studio Challenge.
 * **Tech Stack:** Python, FastAPI, Next.js, React, CLIP, FAISS, YOLOv8, BLIP-large, Supabase, PostgreSQL
   
 * **Highlights:**
