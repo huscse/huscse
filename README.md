@@ -9,7 +9,7 @@ I’m a **Computer Science student** and **Aspiring SWE** passionate about **Art
 ```python
 class Husnain:
     title = "Aspiring SWE - AI/ML"
-    focus = ["AI/ML", "Computer Vision", "Full-Stack Development", "Applied AI"]
+    focus = ["AI/ML", "Full-Stack Development", "Applied AI"]
     latest_project = ["Navis @ Latitude AI"]
 ```
   
