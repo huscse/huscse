@@ -2,20 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Husnain%20Khaliq&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Applied%20AI%20%2F%20ML&descSize=15&descAlignY=53&descColor=cccccc&animation=fadeIn" width="100%" />
 
-[![Latitude AI](https://img.shields.io/badge/Applied_AI_Engineer-Latitude_AI-000000?style=for-the-badge)](https://latitude.ai)&nbsp;
-[![Cornell](https://img.shields.io/badge/AI%2FML_Fellow-Cornell-B31B1B?style=for-the-badge)](https://www.breakthroughtech.org)&nbsp;
-[![Brooklyn College](https://img.shields.io/badge/CS_'26-Brooklyn_College-7B2D8E?style=for-the-badge)](https://www.brooklyn.cuny.edu)
-
 <br>
 
-Building intelligent systems — from semantic search for autonomous driving to production web platforms.  
-Clean code. Thoughtful design. ML that works in the real world.
+Building intelligent systems — Clean code. Thoughtful design. ML that works in the real world.
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnain-kh)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/huscse)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:husnain@example.com)
 
 </div>
 
@@ -88,17 +82,6 @@ AI-powered SaaS tools, interactive web apps, games, creative side projects — c
 
 <br>
 
-## Currently
-
-| Role | Where | What |
-|:-----|:------|:-----|
-| **Frontend Developer** | AffyMind | TikTok Shop affiliate content platform |
-| **Applied AI Engineer** | Latitude AI | VLM tools for autonomous driving |
-| **AI/ML Fellow** | Cornell | Break Through Tech *(4,000+ applicants)* |
-| **CS Senior** | Brooklyn College | Graduating May 2026 |
-
-<br>
-
 ---
 
 <br>
@@ -114,8 +97,6 @@ AI-powered SaaS tools, interactive web apps, games, creative side projects — c
 <img src="https://skillicons.dev/icons?i=figma,vercel,d3,github&theme=dark" />
 
 <br><br>
-
-**AI / ML** &nbsp;&nbsp; CLIP · FAISS · YOLOv8 · BLIP · Scikit-learn · NumPy · Pandas · Matplotlib
 
 </div>
 
