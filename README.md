@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnain-kh)&nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)](https://github.com/huscse)&nbsp;&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/email-1a1b27?style=flat&logo=gmail&logoColor=white)](mailto:husnain@example.com)
+[![Email](https://img.shields.io/badge/email-1a1b27?style=flat&logo=gmail&logoColor=white)](mailto:husnaink3011@gmail.com)
 
 </div>
 
