@@ -1,82 +1,82 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=700&size=36&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hey+there!+I'm+Husnain+%F0%9F%91%8B" alt="Typing SVG" />
+<br>
+
+# Husnain Khan
+
+**Software Engineer · Applied AI / ML**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=500&size=18&duration=3000&pause=2000&color=6C63FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Software+Engineer+%C2%B7+AI+%2F+ML+Builder+%C2%B7+Dreamer+%26+Maker" alt="Subtitle" />
+[![Latitude AI](https://img.shields.io/badge/Applied_AI_Engineer-Latitude_AI-000000?style=flat)](https://latitude.ai)
+[![Cornell](https://img.shields.io/badge/AI/ML_Fellow-Cornell_/_Break_Through_Tech-B31B1B?style=flat)](https://www.breakthroughtech.org)
+[![Brooklyn College](https://img.shields.io/badge/CS_Senior-Brooklyn_College-7B2D8E?style=flat)](https://www.brooklyn.cuny.edu)
 
-<br><br>
+<br>
 
+Building intelligent systems — from semantic search for autonomous driving to production web platforms.  
+I ship clean code, design thoughtful interfaces, and make ML work in the real world.
 
-</div>
+<br>
 
 ---
 
-<div align="center">
-
-### 🎬 *"The secret ingredient is... shipping code."* 🍜
-
-</div>
-
-> I build things at the intersection of **AI** and **beautiful software** — semantic search engines for self-driving cars, ML pipelines, Islamic apps, and everything in between. I believe technology should feel magical, like the best Pixar moments: technically brilliant underneath, effortlessly delightful on the surface.
-
----
-
-<br>
-
-<div align="center">
-
-## 🌟 The Feature Presentation
-
 </div>
 
 <br>
+
+## Projects
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### 🚗
-### [NAVIS](https://github.com/huscse/vlm-dataset-navigator)
-*The one about self-driving cars*
+### [NAVIS](https://github.com/huscse/vlm-dataset-navigator) &nbsp; 🏆
 
-Led 7 engineers to build a VLM-powered semantic search platform across KITTI, BDD100K & Argoverse datasets.
+**VLM-Powered Semantic Search for Autonomous Driving**
 
-**🏆 Top 3 / 120+ teams**
+Led a team of 7 to build a platform that lets researchers query KITTI, BDD100K & Argoverse using natural language. CLIP embeddings with FAISS vector indexing, YOLOv8 object detection, and BLIP captioning across 3,000+ frames.
 
-`CLIP` `FAISS` `YOLOv8` `BLIP`  
-`FastAPI` `Next.js` `PostgreSQL`
+**Top 3 out of 120+ teams** — Break Through Tech AI Studio
 
-[✨ Live Demo](https://vlm-dataset-navigator-frontend.vercel.app)
+`CLIP` `FAISS` `YOLOv8` `BLIP` `FastAPI` `Next.js` `PostgreSQL`
 
-</td>
-<td align="center" width="33%">
-
-### 📊
-### [Price Predictor](https://github.com/huscse/ecornell-project)
-*The one with the numbers*
-
-End-to-end ML pipeline predicting NYC Airbnb prices. Random Forest with ~17% RMSE boost. Full lifecycle from EDA to evaluation.
-
-**📈 Complete ML Pipeline**
-
-`Python` `Scikit-learn`  
-`Pandas` `NumPy` `Matplotlib`
+[View Demo →](https://vlm-dataset-navigator-frontend.vercel.app)
 
 </td>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### 🕌
+### [Airbnb Price Prediction](https://github.com/huscse/ecornell-project)
+
+**End-to-End ML Regression Pipeline**
+
+Complete machine learning lifecycle for NYC Airbnb pricing — EDA, feature engineering, model selection, and evaluation. Tuned Random Forest achieved ~17% RMSE improvement over Linear Regression baseline.
+
+Identified key pricing drivers and built comprehensive visualizations for residuals, predictions, and feature importances.
+
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [Ayah For You](https://github.com/huscse/yourayah)
-*The one from the heart*
 
-Mood-based Quranic verse companion. Tell it how you feel, receive divine guidance tailored to your state.
+**Emotion-Based Quranic Guidance**
 
-**💚 Spiritual + Technical**
+Select how you're feeling — joyful, anxious, grateful, or seeking direction — and receive Quranic verses that speak directly to your state. Mobile-first, clean UI built for daily use.
 
-`Next.js` `React`  
-`Tailwind CSS`
+`Next.js` `React` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### [More →](https://github.com/huscse?tab=repositories)
+
+**Always building**
+
+AI-powered SaaS tools, interactive web apps, creative experiments — I'm constantly shipping. Browse all my work below.
 
 </td>
 </tr>
@@ -84,90 +84,42 @@ Mood-based Quranic verse companion. Tell it how you feel, receive divine guidanc
 
 <br>
 
----
+## Tech Stack
+
+```
+Languages       Python · TypeScript · JavaScript · Java · SQL
+Frontend        React · Next.js · Tailwind CSS · Redux · D3.js
+Backend         FastAPI · Node.js · Express · PostgreSQL · MongoDB
+AI / ML         CLIP · FAISS · YOLOv8 · Scikit-learn · NumPy · Pandas
+Tools           Git · Linux · Figma · Vercel · Docker
+```
 
 <br>
 
-<div align="center">
+## Currently
 
-## 🎨 What's In My Toybox
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,react,nextjs,tailwind,redux" />
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgresql,mongodb,git,linux,figma" />
-
-<br><br>
-
-And also: **CLIP** · **FAISS** · **YOLOv8** · **Scikit-learn** · **NumPy** · **Pandas** · **D3.js** · **Docker** · **Vercel**
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-## 🍿 Now Playing
-
-</div>
-
-<br>
-
-🏗️ &nbsp; **Frontend Developer** at **AffyMind** — building a TikTok Shop affiliate platform  
-🧠 &nbsp; **Applied AI Engineer** at **Latitude AI** — VLM tools for autonomous driving  
-🎓 &nbsp; **AI/ML Fellow** at **Cornell** — Break Through Tech program  
-📚 &nbsp; **Senior year** at **Brooklyn College** — graduating May 2026
+| | |
+|---|---|
+| **AffyMind** | Frontend Developer — TikTok Shop affiliate content platform |
+| **Latitude AI** | Applied AI Engineer — VLM tools for autonomous driving |
+| **Cornell** | AI/ML Fellow — Break Through Tech *(selected from 4,000+ applicants)* |
+| **Brooklyn College** | CS Senior — graduating May 2026 |
 
 <br>
 
 ---
 
-<br>
-
 <div align="center">
 
-## 📊 The Numbers
+<br>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=huscse&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&icon_color=000000&text_color=555555&ring_color=000000&hide_title=true" height="150" />
 
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=huscse&show_icons=true&hide_border=true&bg_color=FFFBF5&title_color=FF6B35&icon_color=6C63FF&text_color=2D3436&ring_color=FF6B35" height="165" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huscse&layout=compact&hide_border=true&bg_color=FFFBF5&title_color=FF6B35&text_color=2D3436" height="165" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=huscse&hide_border=true&background=FFFBF5&ring=FF6B35&fire=FF6B35&currStreakLabel=6C63FF&sideLabels=2D3436&currStreakNum=2D3436&sideNums=2D3436&dates=999999" height="165" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-## 🤝 Let's Make Something Together
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFFBF5?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/husnain-kh)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-FFFBF5?style=for-the-badge&logo=github&logoColor=2D3436)](https://github.com/huscse)
-&nbsp;
-[![Email](https://img.shields.io/badge/-Email-FFFBF5?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:husnain@example.com)
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=500&size=16&duration=4000&pause=3000&color=999999&center=true&vCenter=true&repeat=true&width=400&height=25&lines=To+infinity+and+beyond!+%F0%9F%9A%80" alt="Footer" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnain-kh)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/huscse)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:husnain@example.com)
 
 <br><br>
 
