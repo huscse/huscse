@@ -16,12 +16,6 @@
 
 <br>
 
-```
-CS Senior @ Brooklyn College '26  ·  Applied AI Engineer @ Latitude AI  ·  AI/ML Fellow — Cornell × Break Through Tech
-```
-
-<br>
-
 ### Projects
 
 **[NAVIS](https://github.com/huscse/vlm-dataset-navigator)** &nbsp;`🏆 Top 3 / 120+ teams`
@@ -57,7 +51,7 @@ tools        docker · git · linux · vercel · figma
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=huscse&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&icon_color=4c6ef5&text_color=6b7280&ring_color=4c6ef5&include_all_commits=true&count_private=true" height="150" />
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=huscse&theme=transparent&hide_border=true&background=0d1117&ring=4c6ef5&fire=4c6ef5&currStreakLabel=4c6ef5&sideLabels=6b7280&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" height="150" />
+
 
 </div>
 
