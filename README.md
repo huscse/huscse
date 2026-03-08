@@ -1,29 +1,17 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Husnain%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Applied%20AI%20%2F%20ML&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Husnain%20Khaliq&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Applied%20AI%20%2F%20ML&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
 
 </div>
 
 <!-- Intro -->
 
-```
-🎓  CS Senior @ Brooklyn College  ·  Applied AI Engineer @ Latitude AI  ·  Break Through Tech AI Fellow @ Cornell
-```
-
-I build intelligent systems at the intersection of **software engineering** and **machine learning** — from semantic search platforms for autonomous driving to full-stack web applications. I care about clean code, meaningful UX, and solving problems that matter.
+I build intelligent systems at the intersection of **software engineering** and **machine learning** I care about clean code, meaningful UX, and solving problems that matter.
 
 <br>
 
 <!-- What I'm Working On -->
-
-## `> now`
-
-- 🏗️ **Frontend Developer** at [AffyMind](https://affymind.com) — building a TikTok Shop affiliate content platform
-- 🧠 **Applied AI Engineer** at [Latitude AI](https://latitude.ai) — working on VLM-powered autonomous driving tools  
-- 🎓 **AI/ML Fellow** — Break Through Tech @ Cornell *(selected from 4,000+ applicants)*
-
-<br>
 
 ## `> projects`
 
@@ -142,8 +130,6 @@ From interactive web apps and AI-powered SaaS tools to creative side projects �
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/husnain-kh)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/huscse)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:husnain@example.com)
-
 </div>
 
 <!-- Footer -->
