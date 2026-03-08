@@ -2,9 +2,9 @@
 
 <br>
 
-# Husnain Khaliq
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1500&color=C9D1D9&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Husnain+Khaliq" alt="Typing SVG" /></a>
 
-<samp>software engineer · applied ai / ml</samp>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1500&color=6B7280&center=true&vCenter=true&repeat=true&width=500&height=30&lines=software+engineer+%C2%B7+applied+ai+%2F+ml" alt="Typing SVG" /></a>
 
 <br>
 
@@ -51,7 +51,6 @@ tools        docker · git · linux · vercel · figma
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=huscse&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&icon_color=4c6ef5&text_color=6b7280&ring_color=4c6ef5&include_all_commits=true&count_private=true" height="150" />
 &nbsp;&nbsp;
-
 
 </div>
 
