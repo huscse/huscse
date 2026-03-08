@@ -1,41 +1,41 @@
 <div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Husnain%20Khaliq&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Applied%20AI%20%2F%20ML&descSize=15&descAlignY=53&descColor=cccccc&animation=fadeIn" width="100%" />
 
-# Husnain Khan
-
-**Software Engineer · Applied AI / ML**
-
-<br>
-
-[![Latitude AI](https://img.shields.io/badge/Applied_AI_Engineer-Latitude_AI-000000?style=flat)](https://latitude.ai)
-[![Cornell](https://img.shields.io/badge/AI/ML_Fellow-Cornell_/_Break_Through_Tech-B31B1B?style=flat)](https://www.breakthroughtech.org)
-[![Brooklyn College](https://img.shields.io/badge/CS_Senior-Brooklyn_College-7B2D8E?style=flat)](https://www.brooklyn.cuny.edu)
+[![Latitude AI](https://img.shields.io/badge/Applied_AI_Engineer-Latitude_AI-000000?style=for-the-badge)](https://latitude.ai)&nbsp;
+[![Cornell](https://img.shields.io/badge/AI%2FML_Fellow-Cornell-B31B1B?style=for-the-badge)](https://www.breakthroughtech.org)&nbsp;
+[![Brooklyn College](https://img.shields.io/badge/CS_'26-Brooklyn_College-7B2D8E?style=for-the-badge)](https://www.brooklyn.cuny.edu)
 
 <br>
 
 Building intelligent systems — from semantic search for autonomous driving to production web platforms.  
-I ship clean code, design thoughtful interfaces, and make ML work in the real world.
+Clean code. Thoughtful design. ML that works in the real world.
 
 <br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnain-kh)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/huscse)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:husnain@example.com)
 
 </div>
 
 <br>
 
-## Projects
+---
+
+<br>
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [NAVIS](https://github.com/huscse/vlm-dataset-navigator) &nbsp; 🏆
+### [NAVIS](https://github.com/huscse/vlm-dataset-navigator) &nbsp;🏆
 
 **VLM-Powered Semantic Search for Autonomous Driving**
 
-Led a team of 7 to build a platform that lets researchers query KITTI, BDD100K & Argoverse using natural language. CLIP embeddings with FAISS vector indexing, YOLOv8 object detection, and BLIP captioning across 3,000+ frames.
+Led a team of 7 to build a platform that lets researchers query KITTI, BDD100K & Argoverse using natural language. CLIP embeddings with FAISS vector indexing, YOLOv8 detection, and BLIP captioning across 3,000+ frames.
 
 **Top 3 out of 120+ teams** — Break Through Tech AI Studio
 
@@ -50,9 +50,9 @@ Led a team of 7 to build a platform that lets researchers query KITTI, BDD100K &
 
 **End-to-End ML Regression Pipeline**
 
-Complete machine learning lifecycle for NYC Airbnb pricing — EDA, feature engineering, model selection, and evaluation. Tuned Random Forest achieved ~17% RMSE improvement over Linear Regression baseline.
+Complete ML lifecycle for NYC Airbnb pricing — EDA, feature engineering, model selection, evaluation. Tuned Random Forest achieved ~17% RMSE improvement over baseline.
 
-Identified key pricing drivers and built comprehensive visualizations for residuals, predictions, and feature importances.
+Feature importance analysis and comprehensive residual visualizations.
 
 `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
 
@@ -65,18 +65,18 @@ Identified key pricing drivers and built comprehensive visualizations for residu
 
 **Emotion-Based Quranic Guidance**
 
-Select how you're feeling — joyful, anxious, grateful, or seeking direction — and receive Quranic verses that speak directly to your state. Mobile-first, clean UI built for daily use.
+Select how you're feeling — joyful, anxious, grateful, or seeking direction — and receive Quranic verses tailored to your state. Mobile-first, clean interface built for daily use.
 
 `Next.js` `React` `Tailwind CSS`
 
 </td>
 <td width="50%" valign="top">
 
-### [More →](https://github.com/huscse?tab=repositories)
+### [Explore All →](https://github.com/huscse?tab=repositories)
 
-**Always building**
+**Always shipping**
 
-AI-powered SaaS tools, interactive web apps, creative experiments — I'm constantly shipping. Browse all my work below.
+AI-powered SaaS tools, interactive web apps, games, creative side projects — constantly building and learning.
 
 </td>
 </tr>
@@ -84,43 +84,55 @@ AI-powered SaaS tools, interactive web apps, creative experiments — I'm consta
 
 <br>
 
-## Tech Stack
-
-```
-Languages       Python · TypeScript · JavaScript · Java · SQL
-Frontend        React · Next.js · Tailwind CSS · Redux · D3.js
-Backend         FastAPI · Node.js · Express · PostgreSQL · MongoDB
-AI / ML         CLIP · FAISS · YOLOv8 · Scikit-learn · NumPy · Pandas
-Tools           Git · Linux · Figma · Vercel · Docker
-```
+---
 
 <br>
 
 ## Currently
 
-| | |
-|---|---|
-| **AffyMind** | Frontend Developer — TikTok Shop affiliate content platform |
-| **Latitude AI** | Applied AI Engineer — VLM tools for autonomous driving |
-| **Cornell** | AI/ML Fellow — Break Through Tech *(selected from 4,000+ applicants)* |
-| **Brooklyn College** | CS Senior — graduating May 2026 |
+| Role | Where | What |
+|:-----|:------|:-----|
+| **Frontend Developer** | AffyMind | TikTok Shop affiliate content platform |
+| **Applied AI Engineer** | Latitude AI | VLM tools for autonomous driving |
+| **AI/ML Fellow** | Cornell | Break Through Tech *(4,000+ applicants)* |
+| **CS Senior** | Brooklyn College | Graduating May 2026 |
 
 <br>
 
 ---
 
+<br>
+
+## Tech Stack
+
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,react,nextjs,tailwind,redux&theme=dark" />
 <br>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=huscse&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&icon_color=000000&text_color=555555&ring_color=000000&hide_title=true" height="150" />
-
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgresql,mongodb,docker,git,linux&theme=dark" />
 <br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnain-kh)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/huscse)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:husnain@example.com)
+<img src="https://skillicons.dev/icons?i=figma,vercel,d3,github&theme=dark" />
 
 <br><br>
 
+**AI / ML** &nbsp;&nbsp; CLIP · FAISS · YOLOv8 · BLIP · Scikit-learn · NumPy · Pandas · Matplotlib
+
 </div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=huscse&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8b949e&ring_color=ffffff" height="160" />
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=huscse&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=8b949e&dates=555555" height="160" />
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=100&section=footer" width="100%" />
