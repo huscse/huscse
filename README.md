@@ -104,16 +104,9 @@ AI-powered SaaS tools, interactive web apps, games, creative side projects — c
 
 ---
 
-<br>
-
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=huscse&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8b949e&ring_color=ffffff" height="160" />
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=huscse&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=8b949e&dates=555555" height="160" />
 
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=100&section=footer" width="100%" />
