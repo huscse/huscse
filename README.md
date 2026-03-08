@@ -78,14 +78,6 @@ AI-powered SaaS tools, interactive web apps, games, creative side projects — c
 
 <br>
 
----
-
-<br>
-
----
-
-<br>
-
 ## Tech Stack
 
 <div align="center">
