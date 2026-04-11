@@ -18,7 +18,7 @@
 
 ### Projects
 
-**[NAVIS](https://github.com/huscse/vlm-dataset-navigator)** &nbsp;`🏆 Top 3 / 120+ teams`
+**[NAVIS](https://github.com/huscse/vlm-dataset-navigator)** &nbsp;`🏆 Top 3 / 120+ teams` @ Break Through Tech Fall '25
 VLM-powered semantic search for autonomous driving datasets. Led 7 engineers building natural language queries over KITTI, BDD100K & Argoverse — CLIP + FAISS + YOLOv8 across 5,000+ frames.
 <br>`CLIP` `FAISS` `YOLOv8` `BLIP` `FastAPI` `Next.js` `PostgreSQL`
 <br>[demo](https://vlm-dataset-navigator-frontend.vercel.app) · [source](https://github.com/huscse/vlm-dataset-navigator)
