@@ -17,12 +17,12 @@
 ### Projects
 
 **[NAVIS](https://github.com/huscse/vlm-dataset-navigator)** `🏆 Top 3 / 120+ teams` @ Break Through Tech Fall '25
-VLM-powered semantic search for autonomous driving datasets. Led 7 engineers building natural language queries over KITTI, BDD100K & Argoverse — CLIP + FAISS + YOLOv8 across 5,000+ frames.
+VLM-powered semantic search for autonomous driving datasets. Led 7 engineers building natural language queries over KITTI, BDD100K & Argoverse - CLIP + FAISS + YOLOv8 across 5,000+ frames.
 <br>`CLIP` `FAISS` `YOLOv8` `BLIP` `FastAPI` `Next.js` `PostgreSQL`
 <br>[demo](https://vlm-dataset-navigator-frontend.vercel.app) · [source](https://github.com/huscse/vlm-dataset-navigator)
 
 **[Echoes](https://github.com/bananadonn/Echoes_Hack_Brooklyn)** `🥇 Hack Brooklyn 2026`
-Location-based historical audio storytelling. Drop a pin anywhere — Echoes surfaces archival context and generates a voiced narrative using Claude, ElevenLabs & Tavily. Built solo in 24 hours.
+Location-based historical audio storytelling. Drop a pin anywhere - Echoes surfaces archival context and generates a voiced narrative using Claude, ElevenLabs & Tavily. Built with a team of 4 in 48 hours.
 <br>`Claude API` `ElevenLabs` `Tavily` `Mapbox` `Next.js` `TypeScript`
 <br>[source](https://github.com/bananadonn/Echoes_Hack_Brooklyn)
 
@@ -38,7 +38,7 @@ Mood-based Quranic verse recommendations. Mobile-first, built for daily use.
 
 ### Stack
 ```
-languages    python · typescript · javascript · java
+languages    python · typescript · javascript · java · SQL
 frontend     react · next.js · tailwind · redux
 backend      fastapi · node.js · express · postgresql · mongodb
 ai / ml      claude api · elevenlabs · clip · faiss · yolov8 · scikit-learn
